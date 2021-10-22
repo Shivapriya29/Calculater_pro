@@ -1,2 +1,2 @@
-# Calculater_pro
-calculater program
+# Java_pro
+Sample programs
